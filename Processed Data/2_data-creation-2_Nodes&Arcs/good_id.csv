@@ -1,0 +1,17 @@
+﻿good_id,discription,city_logistics
+1,Telecom,0
+2,Beverage Delivery,1
+3,Warehouse Delivery,1
+4,Parcel Delivery,1
+5,School Bus,0
+6,Linen Delivery,1
+7,Refuse Pickup,0
+8,Long Haul,0
+10,Mass Transit,0
+11,Towing,0
+12,Grocery Delivery,1
+13,Port Drayage,0
+14,Food Delivery,1
+15,Snow Plow,0
+16,Utility,0
+18,Local Delivery,1
